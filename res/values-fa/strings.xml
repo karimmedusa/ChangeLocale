@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="message">این متن به زبان فارسی است!</string>
+    <string name="persian">فارسی</string>
+    <string name="english">انگلیسی</string>
+</resources>
